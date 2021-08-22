@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /diplwmatiki/NodeSketch/target/scala-2.12/nodesketch_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NodeSketch$NodeSketchAlgorithm.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /diplwmatiki/NodeSketch/target/scala-2.12/classes/NodeSketch$NodeSketchAlgorithm.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NodeSketch$NodeSketchAlgorithm$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /diplwmatiki/NodeSketch/target/scala-2.12/classes/NodeSketch$NodeSketchAlgorithm$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NodeSketch$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /diplwmatiki/NodeSketch/target/scala-2.12/classes/NodeSketch$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NodeSketch.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /diplwmatiki/NodeSketch/target/scala-2.12/classes/NodeSketch.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NodeSketch$NodeSketchAlgorithm$NodeSketchAlgorithm$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /diplwmatiki/NodeSketch/target/scala-2.12/classes/NodeSketch$NodeSketchAlgorithm$NodeSketchAlgorithm$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
